@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "codearts-req": {
+      "command": "node",
+      "args": [
+        "C:/Users/Xzj13/Desktop/pro/codearts-req-mcp-server/server.mjs"
+      ],
+      "env": {
+        "CODEARTS_REQ_ENDPOINT": "https://projectman-ext.cn-north-4.myhuaweicloud.com",
+        "CODEARTS_REQ_AK": "请替换为你的AccessKeyId",
+        "CODEARTS_REQ_SK": "请替换为你的SecretAccessKey"
+      },
+      "disabled": false,
+      "timeout": 10000
+    }
+  }
+}
